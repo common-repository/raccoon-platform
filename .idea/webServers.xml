@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6d043cff-12b3-43b2-9a24-a7dc29d35802" name="alamira-eg.com" url="http://ftp.alamira-eg.com">
+        <fileTransfer rootFolder="/shoes-store1" host="ftp.alamira-eg.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
